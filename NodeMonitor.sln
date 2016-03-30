@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NodeMonitor.Server", "NodeMonitor.Server\NodeMonitor.Server.csproj", "{6CC85C4D-D289-456B-800B-302757472023}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NodeMonitor.Client", "NodeMonitor.Client\NodeMonitor.Client.csproj", "{12607A10-6A64-4C71-BF64-4DB4DD1FD51C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NodeMonitor.Models", "NodeMonitor.Models\NodeMonitor.Models.csproj", "{C613FC1A-BD91-485D-8532-1FBC3C201241}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NodeMonitor.SamplesReaders", "NodeMonitor.SamplesReaders\NodeMonitor.SamplesReaders.csproj", "{2042D94B-3AD8-44A8-8ED3-2D5197C18351}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NodeMonitor.SamplesStore", "NodeMonitor.SamplesStore\NodeMonitor.SamplesStore.csproj", "{9B6E72DD-FD72-41E1-9538-0FBE4B3BECA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NodeMonitor.Test", "NodeMonitor.Test\NodeMonitor.Test.csproj", "{3E1A8BCB-A993-4495-80FF-42EAD415D30C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CC85C4D-D289-456B-800B-302757472023}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CC85C4D-D289-456B-800B-302757472023}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CC85C4D-D289-456B-800B-302757472023}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CC85C4D-D289-456B-800B-302757472023}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12607A10-6A64-4C71-BF64-4DB4DD1FD51C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12607A10-6A64-4C71-BF64-4DB4DD1FD51C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12607A10-6A64-4C71-BF64-4DB4DD1FD51C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12607A10-6A64-4C71-BF64-4DB4DD1FD51C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C613FC1A-BD91-485D-8532-1FBC3C201241}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C613FC1A-BD91-485D-8532-1FBC3C201241}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C613FC1A-BD91-485D-8532-1FBC3C201241}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C613FC1A-BD91-485D-8532-1FBC3C201241}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2042D94B-3AD8-44A8-8ED3-2D5197C18351}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2042D94B-3AD8-44A8-8ED3-2D5197C18351}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2042D94B-3AD8-44A8-8ED3-2D5197C18351}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2042D94B-3AD8-44A8-8ED3-2D5197C18351}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B6E72DD-FD72-41E1-9538-0FBE4B3BECA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B6E72DD-FD72-41E1-9538-0FBE4B3BECA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B6E72DD-FD72-41E1-9538-0FBE4B3BECA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B6E72DD-FD72-41E1-9538-0FBE4B3BECA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E1A8BCB-A993-4495-80FF-42EAD415D30C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E1A8BCB-A993-4495-80FF-42EAD415D30C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E1A8BCB-A993-4495-80FF-42EAD415D30C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E1A8BCB-A993-4495-80FF-42EAD415D30C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
